@@ -12,11 +12,10 @@ Organizar exemplos, exercícios e soluções relacionados a temas de computaçã
 
 ## Estrutura
 
-Cada arquivo neste diretório corresponde a um exercício ou implementação específica da disciplina.
+Cada arquivo neste diretório corresponde a uma implementação específica da disciplina.
 
 ## Uso
 
 1. Abra o arquivo desejado no ambiente de desenvolvimento.
 2. Leia os comentários e as instruções no próprio código.
 3. Execute os exemplos ou testes conforme descrito.
-

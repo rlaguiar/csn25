@@ -6,7 +6,7 @@ Esta pasta reúne os códigos relacionados ao tratamento de valores em ponto flu
 
 - Rotinas e exemplos de operações com `float`
 - Conversões e validações de dados numéricos
-- Código de suporte ao componente 25 do CSN
+- Código de suporte ao componente CSN
 
 ## Uso
 
@@ -14,7 +14,3 @@ Esta pasta reúne os códigos relacionados ao tratamento de valores em ponto flu
 2. Analise e execute os exemplos conforme o contexto do projeto.
 3. Utilize as rotinas de ponto flutuante como base para cálculos e validações.
 
-## Observações
-
-- Mantenha a consistência de formato entre os arquivos.
-- Verifique dependências no escopo do projeto `csn25` antes de rodar os exemplos.
