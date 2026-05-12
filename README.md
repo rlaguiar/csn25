@@ -8,6 +8,6 @@
 Este repositório consolida o desenvolvimento prático de algoritmos voltados à Computação Numéria e a Deep Learning.
 
 ## 🛠️ Tecnologias Utilizadas
-* **Linguagem:** Python 3.x
+* **Linguagem:** Python 3.x e C
 * **Frameworks:** PyTorch, TensorFlow
 * **Bibliotecas:** Scikit-learn, Matplotlib
