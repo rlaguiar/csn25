@@ -4,7 +4,6 @@
 *.ini
 *.ipynb
 *.pt
-/*/
 
 # Ignorar arquivos temporários do Python/Jupyter
 __pycache__/
