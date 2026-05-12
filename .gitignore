@@ -1,0 +1,11 @@
+# Ignorar arquivos do Google Drive/Slides
+*.gslides
+*.gdoc
+*.ini
+*.ipynb
+*.pt
+/*/
+
+# Ignorar arquivos temporários do Python/Jupyter
+__pycache__/
+.ipynb_checkpoints/
